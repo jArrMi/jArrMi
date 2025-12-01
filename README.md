@@ -1,6 +1,6 @@
 Hello there 👋 It's Miguel.
 
-I'm an Android developer based in Calgary, Canada 🇨🇦 and working for Neo Financial, where we build digital banking products for Canadians.
+I'm an Android developer based in Calgary, Canada 🇨🇦
 <!--
 **jArrMi/jArrMi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
